@@ -1,4 +1,4 @@
-# Luvkesh Rawat — Animated Portfolio
+# Aawesh — Portfolio
 
 ## Stack
 - Next.js App Router
